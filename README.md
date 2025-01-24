@@ -58,6 +58,9 @@ The steps involved in the project are as follows:
 8. **Open the app in your browser**:
     Open your browser and go to to the server link
 
+Picture displaying Webpage
+![picdjangoproject](https://github.com/user-attachments/assets/98f77a70-f6ad-4824-853d-ef6741aa2c51)
+
 
 
 
