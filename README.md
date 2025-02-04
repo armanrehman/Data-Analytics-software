@@ -9,7 +9,7 @@ This project was built based on a demo **Software Requirements Specification (SR
 - **Python**: Programming language used for backend logic.
 - **Django**: Web framework for building the application.
 - **Pandas**: Data manipulation and analysis library used to process the CSV data.
-- **ChartJS**: Library used to create interactive visualizations and charts.
+- **JavaScript**: Used to create dynamic charts using ChartJS, enabling users to visualize and explore the processed data on the frontend.
 - **HTML**: Markup language used to structure the web pages.
 - **CSS**: Styling language used to design and style the webpage.
 
